@@ -1,3 +1,3 @@
 # LeanMath
 
-A place to lear Lean 4 and MathLib
+A place to learn Lean 4 and MathLib
